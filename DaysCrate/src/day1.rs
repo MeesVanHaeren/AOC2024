@@ -62,7 +62,7 @@ fn splitRows(input: Vec<String>) -> (Vec<String>,Vec<String>){
     (left,right)
 }
 
-fn parseVector(input: Vec<String>) -> Vec<u32>{
+pub fn parseVector(input: Vec<String>) -> Vec<u32>{
     let mut output: Vec<u32> = Vec::new();
     for string in input{
         output.push(string.parse::<u32>().unwrap());

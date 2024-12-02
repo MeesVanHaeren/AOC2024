@@ -1,0 +1,1 @@
+/home/ya-boi-mees/Documents/aoc2024/AOC2024/DaysCrate/target/debug/DaysCrate: /home/ya-boi-mees/Documents/aoc2024/AOC2024/DaysCrate/src/day1.rs /home/ya-boi-mees/Documents/aoc2024/AOC2024/DaysCrate/src/day2.rs /home/ya-boi-mees/Documents/aoc2024/AOC2024/DaysCrate/src/main.rs
