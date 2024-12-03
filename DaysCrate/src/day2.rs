@@ -35,7 +35,7 @@ fn countSafe(inputVec: Vec<String>) -> u32 {
 
 fn validateSafety(temperatures: Vec<u32>) -> bool {
     if validateSafeSteady(&temperatures) && validateSafeSlow(&temperatures) {
-        println!("I think this one is alright: {:?}", temperatures);
+        // println!("I think this one is alright: {:?}", temperatures);
         return true;
     }
     false
