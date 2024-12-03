@@ -15,6 +15,8 @@ pub fn day2() {
 
     let safe = countSafe(input);
     println!("amount safe: {}", safe);
+
+    //TODO: the other one
 }
 
 fn inputGetter(filePath: String) -> Vec<String> {
